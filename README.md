@@ -1,7 +1,6 @@
-<h1>Hi, I'm Whitney! <br/><a href="https://github.com/whitneydawson123">Programmer</a>, <a href="https://www.linkedin.com/in/whitney-dawson-109554226/">Software Developer</a><h1/>
-  
-<h2>👨‍💻 Software Development Projects:</h2>
-<h2> TBD: </h1>
+![intro](https://github.com/whitneydawson123/whitneydawson123/assets/94804621/250f42f8-c44f-4639-af1c-4f265fe1ceba)
+
+ 
 
 <!--
 **whitneydawson123/whitneydawson123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
