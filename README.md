@@ -1,4 +1,12 @@
-<h1 align="center">Hi, my name is Whitney Dawson</h1>
+<img src="https://github.com/whitneydawson123/whitneydawson123/assets/94804621/7632a409-880e-4101-8e14-3144a1f2689d" width="100%" heigth="10%" />
+
+<h3 align="left">Description:</h3>
+<p align="left">TBD</p>
+
+<!--START OF TECH STACK-->
+
+<!--END OF TECH STACK-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/w-dawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="w-dawson" height="30" width="40" /></a>
