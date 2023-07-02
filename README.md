@@ -3,14 +3,14 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/whitneydawson123)
-  - [osTicket: Post-Installation Configuration](https://github.com/whitneydawson123)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/whitneydawson123)
+  - [osTicket: Prerequisites and Installation](https://github.com/whitneydawson123/osTicket-prereq)
+  - [osTicket: Post-Installation Configuration](https://github.com/whitneydawson123/osTicket-post)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/whitneydawson123/osTicket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/whitneydawson123)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/whitneydawson123)
-  - [Building Intuition for DNS](https://github.com/whitneydawson123)
-  - [Network File Shares and Permissions](https://github.com/whitneydawson123)
+  - [Building Intuition for DNS](https://github.com/whitneydawson123/dns-intuition)
+  - [Network File Shares and Permissions](https://github.com/whitneydawson123/network-file-shares)
  
 <h2>Cybersecurity Projects: Coming Soon</h2>
 
@@ -20,8 +20,8 @@
 
 - [CompTIA A+](https://www.credly.com/badges/72bfbefa-be5b-4143-8d8e-03c6663d1fbb/public_url)
 - [Google IT Support](https://www.credly.com/badges/3eabc579-c261-4e9f-8aba-80185b884f84/public_url)
-- [CompTIA Network+ - In Progress]
-- [CourseCareers IT Professional - In Progress]
+- CompTIA Network+ - In Progress
+- CourseCareers IT Professional - In Progress
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
