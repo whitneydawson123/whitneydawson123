@@ -1,4 +1,5 @@
-<h1>Hey there, I'm Whitney! <br/><a href="https://www.linkedin.com/in/w-dawson/">Software Developer, IT Professional, Aspiring Cybersecurity Analyst</a></h1>
+<h1>Hey there, I'm Whitney! <br/> </h1>
+<h3><a>Software Developer, IT Professional, Aspiring Cybersecurity Analyst</a></h3>
 
 <h2>Information Technology Projects:</h2>
 
@@ -20,8 +21,8 @@
 
 - [CompTIA A+](https://www.credly.com/badges/72bfbefa-be5b-4143-8d8e-03c6663d1fbb/public_url)
 - [Google IT Support](https://www.credly.com/badges/3eabc579-c261-4e9f-8aba-80185b884f84/public_url)
-- CompTIA Network+ - In Progress
-- CourseCareers IT Professional - In Progress
+- [CompTIA Network+](https://www.credly.com/badges/965524c6-3bb8-46c8-a0a5-3ca721b88c2c/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/6908d485-2802-414f-9f93-727d2c7d109e/public_url)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
