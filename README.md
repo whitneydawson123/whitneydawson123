@@ -13,16 +13,17 @@
   - [Building Intuition for DNS](https://github.com/whitneydawson123/dns-intuition)
   - [Network File Shares and Permissions](https://github.com/whitneydawson123/network-file-shares)
  
-<h2>Cybersecurity Projects: In Progress</h2>
+<h2>Cybersecurity Projects</h2>
 
-- <b>Implementing a Live SOC & Honeynet: Attacking and Remediating It!</b>
+- <b>[Implementing a Live SOC & Honeynet: Attacking and Remediating It!](https://github.com/whitneydawson123/azure-soc-honeynet)</b>
 
 <h2>Certifications:</h2>
-
 
 - [CompTIA A+](https://www.credly.com/badges/72bfbefa-be5b-4143-8d8e-03c6663d1fbb/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/965524c6-3bb8-46c8-a0a5-3ca721b88c2c/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/6908d485-2802-414f-9f93-727d2c7d109e/public_url)
+- Google Cybersecurity - In progress
+- CCNA - In progress
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
